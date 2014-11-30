@@ -1,5 +1,6 @@
 __author__ = 'jpflorido'
 HOLA DESARROLLADOR 2
+HOLA DE NUEVO DESARROLLADOR 2
 
 class Empleado():
     def __init__(self, nombre, apellidos, dni, direccion, edad, email, salario):
